@@ -1,0 +1,1 @@
+mkvextract chapters tiny_sample.mkv > tiny_sample_CHAPTERS.xml
