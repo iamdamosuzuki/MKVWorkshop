@@ -1,1 +1,1 @@
-mkv2xml < Export_XML_Data.txt > tiny_sample.xml
+mkv2xml < tiny_sample.mkv > tiny_sample.xml
